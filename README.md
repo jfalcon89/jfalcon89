@@ -3,18 +3,23 @@
 ### Acttualmente trabajo con las tecnologias:
 
 ** Frontend: 
-HTML, CSS, JavaScript 
+
+  HTML, CSS, JavaScript 
 
 ** Bases de datos: 
-Oracle 
+
+  Oracle 
 
 ** Frameworks de CSS: 
-Material UI, Bootstrap
+
+  Material UI, Bootstrap
 
 ** Testing: 
-Katalon
+
+  Katalon
 
 ** Otras: 
+
 Git, Github, Figma, Postman, diseño ui/ux, Azure DevOps 
 <!--
 **jfalcon89/jfalcon89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
