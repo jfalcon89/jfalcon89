@@ -4,7 +4,8 @@
 Soy de Republica Dominicana y me encuentro en un nivel intermedio de desarrollo front end y back end, estoy a las ordenes de toda la comunidad en lo que les pueda ayudar !!
 
 - 🔭 Estoy trabajando en este proyecto personal. 
-![GPS LOCATION TRACKERS](https://github.com/jfalcon89/Desarrollo_Web_GPSLT "GPS LOCATION TRACKERS")
+
+        [GPS LOCATION TRACKERS](https://github.com/jfalcon89/Desarrollo_Web_GPSLT "GPS LOCATION TRACKERS")
 
 #### Actualmente trabajo con las tecnologias:
 
