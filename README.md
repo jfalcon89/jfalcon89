@@ -1,6 +1,6 @@
-### Hola a todo@s 👋 !! me llamo jose miguel soy de Republica Dominicana y me encuentro en un nivel intermedio de desarrollo front ent y back ent, estoy a las ordenes de toda la comunidad de GitHub en lo que les pueda ayudar !! 
+### Hola a todo@s 👋 !! me llamo jose miguel soy de Republica Dominicana y me encuentro en un nivel intermedio de desarrollo front end y back end, estoy a las ordenes de toda la comunidad en lo que les pueda ayudar !! 
 
-### Acttualmente trabajo con las tecnologias:
+### Actualmente trabajo con las tecnologias:
 
 **Frontend** 
 
