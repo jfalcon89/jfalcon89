@@ -1,6 +1,12 @@
-### Hola a todo@s 👋 !! me llamo jose miguel soy de Republica Dominicana y me encuentro en un nivel intermedio de desarrollo front end y back end, estoy a las ordenes de toda la comunidad en lo que les pueda ayudar !! 
+### Hola 👋,  Me llamo jose miguel 
+![](https://www.dlapiper.com/~/media/images/news/2018/programming_code_technology_computerwebsite_banner_432008923.jpg?h=257&la=es&w=759&hash=38BC28B40211EFCBFAEC1BE3711DCB8BD0500121)
 
-### Actualmente trabajo con las tecnologias:
+Soy de Republica Dominicana y me encuentro en un nivel intermedio de desarrollo front end y back end, estoy a las ordenes de toda la comunidad en lo que les pueda ayudar !!
+
+- 🔭 Estoy trabajando en este proyecto personal. 
+![GPS LOCATION TRACKERS](https://github.com/jfalcon89/Desarrollo_Web_GPSLT "GPS LOCATION TRACKERS")
+
+#### Actualmente trabajo con las tecnologias:
 
 **Frontend** 
 
@@ -21,17 +27,5 @@
 **Otras** 
 
     Git, Github, Figma, Postman, diseño ui/ux, Azure DevOps 
-<!--
-**jfalcon89/jfalcon89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
