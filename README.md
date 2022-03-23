@@ -29,6 +29,8 @@ Soy de Republica Dominicana y me encuentro en un nivel intermedio de desarrollo 
 
     Git, Github, Figma, Postman, diseño ui/ux, Azure DevOps 
 
+
+
 <p align="center">
 Puedes contactarme  
 
