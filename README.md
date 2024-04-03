@@ -3,9 +3,9 @@
 
 Soy de Republica Dominicana y me encuentro en un nivel intermedio de desarrollo front end y back end, estoy a las ordenes de toda la comunidad en lo que les pueda ayudar !!
 
-- Estoy trabajando en este proyecto personal. 
+- Estoy trabajando en este proyecto personal actualmente. 
 
-     [:construction: GPS LOCATION TRACKERS](https://github.com/jfalcon89/Desarrollo_Web_GPSLT/tree/master " REPOSITORIO GITHUB GPS LOCATION TRACKERS")
+     [:construction: EDUFAL ONLINE - ACADEMIA](https://edufalonline.com/)
 
 #### Actualmente trabajo con las tecnologias:
 
@@ -13,9 +13,13 @@ Soy de Republica Dominicana y me encuentro en un nivel intermedio de desarrollo 
 
     HTML, CSS, JavaScript 
 
+**Backend** 
+
+    NodeJS & Express
+
 **Bases de datos** 
 
-    Oracle 
+    Oracle, MySql, MongoDB
 
 **Frameworks de CSS** 
 
